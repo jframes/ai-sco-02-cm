@@ -1,0 +1,3 @@
+# Transversal CM SUP repositories of SCO-02 CM, cloned by bootstrap.sh.
+# name    url                                                   branch ("-" = remote default)
+kind      ssh://git@s2e2.cosmos.esa.int:7998/cmsup/kind.git     -
