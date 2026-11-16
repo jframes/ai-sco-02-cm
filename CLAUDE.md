@@ -19,7 +19,7 @@ AI repository carry no Jira ID.
 - **`wa01_xips_extended_frontend`**, **`wa01_xips_extended_backend`** (`xmmsoc/…`) — XRPS source
   code, owned by the XRPS team. Read them to learn how they build; do not add CI or AI files
   to them.
-- **`XMMSOC_CI`** (`xmmsoc/XMMSOC_CI`) — central CI repository of the `xmmsoc` Bitbucket project:
+- **`wa02_xmmsoc_ci`** (`xmmsoc/wa02_xmmsoc_ci`) — central CI repository of the `xmmsoc` Bitbucket project:
   Harness pipeline YAML, one folder per product, imported into Harness project `SCI/XMMSOC`
   through Git Experience. All pipeline work for XRPS lands here.
 
