@@ -6,7 +6,7 @@
 
 This folder is a **ticket workspace** of the SCO-02 Configuration Management role. It is a
 checkout of the private `ai-sco-02-cm` repository (AI metadata only); the folder name is the Jira
-ticket key in lowercase (e.g. `xmminssocops-264` → `XMMINSSOCOPS-264`). Read that ticket with the
+ticket key in lowercase with the `ws-` prefix (e.g. `ws-xmminssocops-264` → `XMMINSSOCOPS-264`). Read that ticket with the
 `jira-issues` skill before planning. The mission is in `.mission`; the work repositories listed
 in `missions/<mission>.repos` are cloned next to this file by `bootstrap.sh` and are ignored by
 this repository's `.gitignore`.

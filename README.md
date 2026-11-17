@@ -8,7 +8,7 @@ project skills. Kept apart from the work repositories so nothing here is ever co
 
 ```bash
 ~/workspace/sco-02/ai-cm/ai-user-config/scripts/new-workspace.sh sco-02-cm <TICKET> --mission <mission>
-# e.g. … sco-02-cm XMMINSSOCOPS-264 --mission xmm  →  ~/workspace/sco-02/cm/xmm/xmminssocops-264/
+# e.g. … sco-02-cm XMMINSSOCOPS-264 --mission xmm  →  ~/workspace/sco-02/cm/xmm/ws-xmminssocops-264/
 ```
 
 That clones this repository as the ticket folder and runs `./bootstrap.sh <mission>`, which
